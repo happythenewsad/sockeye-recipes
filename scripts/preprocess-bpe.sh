@@ -16,6 +16,7 @@ source $1
 ## standard settings, need not modify
 bpe_minfreq=2 
 
+rootdir="/Users/peterkong/local/projects/sockeye-recipes"
 
 # (1) Save new BPE'ed data and vocab file in datadir 
 subword=$rootdir/tools/subword-nmt/
